@@ -1,0 +1,145 @@
+body {
+    display: block;
+    align-items: center;
+    background-color: #ffffff;
+    margin: auto;
+    width: 100%;
+}
+table {
+    border: 2px solid #000000;
+    text-align: center;
+    border-collapse: collapse;
+    width: 100%;
+}
+td {
+    text-align :center;
+    padding: 5px;
+    width: 33%;
+    color: #000000;
+    font-size: 20px;
+}
+.ul1 {
+    align-items: center;
+    margin: auto;
+    padding: 0;
+}
+h1 {
+    text-align :center;
+    color: #000000;
+    font-size: 30px;
+}
+.li1 {
+    text-align :center;
+    color: #5e3968;
+    font-size: 20px;
+    list-style-type: none;
+    margin-top: -15px;
+    margin-bottom: 20px;
+}
+.ul2 {
+    margin: auto;
+    padding-left: 0;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: left;
+    padding-bottom: 15px;
+}
+h2 {
+    color: #000000;
+    font-size: 20px;
+    width: 80%;
+}
+.li2 {
+    list-style-type: none;
+    color: #000000;
+    font-size: 18px;
+    width: 70%;
+}
+.skills {
+    display: flex;
+    width: 60%;
+    justify-content: space-around;
+}
+.skills1 {
+    display: flex;
+    flex-direction: column;
+}
+.liSkills {
+    padding-bottom: 5px;
+    font-size: 17px;
+}
+.div1 {
+    display: flex;
+    width: 60%;
+    flex-direction: column;
+    align-items: left;
+}
+h3 {
+    font-size: 18px;
+    margin-bottom: 7px;
+}
+.liEdu {
+    font-size: 17px;
+}
+.line {
+    border-bottom: 2px solid #5e3968;
+    width: 80%;
+}
+a {
+    text-decoration: none;
+    color: #906b9b;
+}
+
+.fot {
+    margin: auto;
+    padding-left: 0;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.fotP {
+    width: 80%;
+    text-align: end;
+}
+
+.contact {
+    margin: auto;
+    padding-left: 0;
+    display: flex;
+    width: 50%;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 20px;
+}
+.phone {
+    text-decoration: none;
+    color: #000000;
+    font-size: 17px;
+}
+h4 {
+    font-size: 22px;
+    margin: 0;
+}
+.img {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 0;
+    width: 100%;
+    justify-content: center;
+}
+img {
+    width: 65%;
+}
+.fot1 {
+    padding-top: 5px;
+    margin: auto;
+    padding-left: 0;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
